@@ -16,7 +16,7 @@ WHEN the user reestablishes an internet connection<br>
 THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated<br>
 
 <h2>Screenshot</h2>
-<img src="https://user-images.githubusercontent.com/95733427/173267651-f5f9b4b1-dd8a-4218-b78c-22079e2bc319.png"/>
+<img src="https://user-images.githubusercontent.com/95733427/173493320-e39c02c0-105e-4dfb-886b-b33947c4a27a.png"/>
 
 <h2>Heroku Deployment Link </h2>
 https://glacial-shore-65943.herokuapp.com/
